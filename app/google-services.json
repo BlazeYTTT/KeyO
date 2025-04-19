@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075507529789",
+    "firebase_url": "https://keyo-72811-default-rtdb.firebaseio.com",
+    "project_id": "keyo-72811",
+    "storage_bucket": "keyo-72811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075507529789:android:243089e8e56c59b2078254",
+        "android_client_info": {
+          "package_name": "com.example.keyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075507529789-jm81u4p0j891f9ks6i6dk4mog62ijp91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6Y5OruP_qjMU6vAE5Wxym6_ikIjgXmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075507529789-jm81u4p0j891f9ks6i6dk4mog62ijp91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
